@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38315921-18ff-4859-b618-7b533ff13df2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controle_gastos/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/controle_gastos/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
